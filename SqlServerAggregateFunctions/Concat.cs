@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.IO;
 using System.Linq;
-using System.Security.Principal;
 using Microsoft.SqlServer.Server;
 
 namespace SqlServerAggregateFunctions
